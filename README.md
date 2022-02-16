@@ -7,6 +7,6 @@
 
 
 ### Connect with me:
-[https://www.linkedin.com/home?originalSubdomain=tr](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-&nbsp;&nbsp;
-[![https://www.instagram.com/musa.uyumaz26/](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
+
+[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][https://www.linkedin.com/in/musauyumaz/]
+
