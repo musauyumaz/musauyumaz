@@ -1,4 +1,4 @@
-<h1>Hi 👋, I Am MUSA UYUMAZ</h1>
+<h1 align:"center">Hi 👋, I Am MUSA UYUMAZ</h1>
 
 
 <h3>Language and Tools I Use:</h3>
