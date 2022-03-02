@@ -46,10 +46,11 @@
   ## GitHub Analytics 📊
 
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=musauyumaz&show_icons=true&theme=dark=en" alt="musauyumaz" width="50%" /></p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=musauyumaz&show_icons=true&theme=merko" alt="musauyumaz" width="50%" /></p>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musauyumaz&layout=compact&langs_count=16&theme=merko" width ="50%"/>
   </br>
  <p>&nbsp; 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musauyumaz&layout=compact&langs_count=16&theme=merko" width ="50%"/></p>
+  </p>
 
 
 
