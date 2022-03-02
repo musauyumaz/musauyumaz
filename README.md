@@ -1,5 +1,9 @@
 <h1 align:"center">Hi 👋, I Am MUSA UYUMAZ</h1>
 
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=musauyumaz&title=Commit,Followers,Repositories,Stars,PullRequest,Issues&margin-w=5" alt="musauyumaz" /></a> </p>
+
 - 🌱 I’m currently learning .NetCore,Java,JavaScript
 - 🔭 I’m currently developing myself on Software Development
 - 💻 I love writing code and learn anythings about it
