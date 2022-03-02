@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I Am MUSA UYUMAZ</h1>
 <h3 align="center">⚡ An Electrical and Electronical Engineer && 💻 Software Developer</h3>
 <p><h3 align="center">From Turkey</h3>
-<img src="https://img.icons8.com/emoji/96/000000/turkey-flag-emoji.png"/>
+<img align="center" src="https://img.icons8.com/emoji/96/000000/turkey-flag-emoji.png"/>
 </p>
 <h3 align="center">From Turkey</h3></br>
 
