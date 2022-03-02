@@ -5,6 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=musauyumaz&title=Commit,Followers,Repositories,Stars,PullRequest,Issues&margin-w=5" alt="musauyumaz" /></a> </p></br>
 
+<p align="center">
+  <img src= "https://gpvc.arturio.dev/musauyumaz" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/musauyumaz?label=Followers&style=social"> •   
+  <img src="https://img.shields.io/github/stars/musauyumaz?label=Stars" alt="musauyumaz">
+</p>
+
 - 🌱 I’m currently learning .NetCore,Java,JavaScript
 - 🔭 I’m currently developing myself on Software Development
 - 💻 I love writing code and learn anythings about it
