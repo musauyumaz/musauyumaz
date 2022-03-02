@@ -1,5 +1,7 @@
 <h1 align:"center">Hi 👋, I Am MUSA UYUMAZ</h1>
 
+<p>I am currently learning .Net</p>
+
 
 <h3>Language and Tools I Use:</h3>
 <p align="center">
