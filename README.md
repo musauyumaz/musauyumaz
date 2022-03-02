@@ -2,7 +2,7 @@
 <h3 align="center">⚡ An Electrical and Electronical Engineer && 💻 Software Developer</h3>
 <h3 align="center">From Turkey</h3>
 <p align="center">
-<img align="center" src="https://img.icons8.com/emoji/256/000000/turkey-flag-emoji.png" />
+<img align="center" src="https://iasbh.tmgrup.com.tr/83591f/1200/627/0/0/752/393?u=https://isbh.tmgrup.com.tr/sb/album/2020/08/30/en-guzel-turk-bayragi-resimleri-2020-turk-bayragi-gorselleri-1598770404465.jpg" />
 </p>
 </br>
 
