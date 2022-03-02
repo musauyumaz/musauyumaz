@@ -3,11 +3,13 @@
 <h3 align="center">From Turkey</h3></br>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=musauyumaz&title=Commit,Followers,Repositories,Stars,PullRequest,Issues&margin-w=5" alt="musauyumaz" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=musauyumaz&title=Commit,Followers,Repositories,Stars,PullRequest,Issues&margin-w=5" alt="musauyumaz" /></a> </p></br>
 
 - 🌱 I’m currently learning .NetCore,Java,JavaScript
 - 🔭 I’m currently developing myself on Software Development
 - 💻 I love writing code and learn anythings about it
+
+</br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,7 +17,7 @@
 <a href="https://stackoverflow.com/users/12544106" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="musauyumaz" height="45" width="45" /></a>
 <a href="https://www.instagram.com/musa.uyumaz26/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="musauyumaz" height="30" width="30" /></a>
 </p>
-
+</br>
 <h3>Language and Tools I Use:</h3>
 <p align="center">
 <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
@@ -33,14 +35,14 @@
 <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 
-
+</br>
   
   ## GitHub Analytics 📊
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=musauyumaz&show_icons=true&theme=dark)
   <br/>
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=musauyumaz&layout=compact)
-  
+  </br>
   
   ![snake svg](https://github.com/binnazcabuk/binnazcabuk/blob/output/github-contribution-grid-snake.svg)
 
