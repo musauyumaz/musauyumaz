@@ -1,5 +1,5 @@
-<h1 align:"center">Hi 👋, I Am MUSA UYUMAZ</h1>
-
+<h1 align="center">Hi 👋, I Am MUSA UYUMAZ</h1>
+<h3 align="center">A Electrical and Electronical Engineer && Software Developer from Turkey</h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=musauyumaz&title=Commit,Followers,Repositories,Stars,PullRequest,Issues&margin-w=5" alt="musauyumaz" /></a> </p>
