@@ -38,7 +38,9 @@
 </br>
   
   ## GitHub Analytics 📊
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=musauyumaz&show_icons=true&theme=merko=en& layout=compact" alt="musauyumaz" /></p>
+<p><img align="left" alt="musauyumaz" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=musauyumaz&theme=merko&show_icons=true)
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=musauyumaz&show_icons=true&theme=dark=en" alt="musauyumaz" width="50%" /></p>
   </br>
