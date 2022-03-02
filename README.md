@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I Am MUSA UYUMAZ</h1>
 <h3 align="center">⚡ An Electrical and Electronical Engineer && 💻 Software Developer</h3>
-<h3 align="center">From Turkey <img src="https://img.icons8.com/emoji/96/000000/turkey-flag-emoji.png"/> </h3></br>
+<p><h3 align="center">From Turkey</h3>
+<img src="https://img.icons8.com/emoji/96/000000/turkey-flag-emoji.png"/>
+</p>
+<h3 align="center">From Turkey</h3></br>
+
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=musauyumaz&title=Commit,Followers,Repositories,Stars,PullRequest,Issues&margin-w=5" alt="musauyumaz" /></a> </p></br>
