@@ -4,6 +4,12 @@
 - 🔭 I’m currently developing myself on Software Development
 - 💻 I love writing code and learn anythings about it
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/musauyumaz/" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="musauyumaz" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/12544106" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="musauyumaz" height="45" width="45" /></a>
+<a href="https://www.instagram.com/musa.uyumaz26/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="musauyumaz" height="30" width="30" /></a>
+</p>
 
 <h3>Language and Tools I Use:</h3>
 <p align="center">
