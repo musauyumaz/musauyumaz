@@ -1,6 +1,8 @@
 <h1 align:"center">Hi 👋, I Am MUSA UYUMAZ</h1>
 
-<p>I am currently learning .Net</p>
+🌱 I’m currently learning .NetCore,Java,JavaScript
+🔭 I’m currently developing myself on Software Development
+💻 I love writing code and learn anythings about it
 
 
 <h3>Language and Tools I Use:</h3>
