@@ -3,7 +3,7 @@
 <h3 align="center">From Turkey</h3></br>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=musauyumaz&title=Commit,Followers,Repositories,Stars,PullRequest,Issues&margin-w=5" alt="musauyumaz" /></a> </p></br>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=musauyumaz&title=Commit,Followers,Repositories,Stars,PullRequest,Issues&margin-w=5" alt="musauyumaz" /></a> </p></br>
 
 <p align="center">
   <img src= "https://gpvc.arturio.dev/musauyumaz" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
