@@ -4,7 +4,7 @@
 <p align="center">
 <img align="center" src="https://img.icons8.com/emoji/256/000000/turkey-flag-emoji.png" />
 </p>
-<h3 align="center">From Turkey</h3></br>
+</br>
 
 
 
