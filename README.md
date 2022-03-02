@@ -1,8 +1,8 @@
 <h1 align:"center">Hi 👋, I Am MUSA UYUMAZ</h1>
 
--🌱 I’m currently learning .NetCore,Java,JavaScript
--🔭 I’m currently developing myself on Software Development
--💻 I love writing code and learn anythings about it
+- 🌱 I’m currently learning .NetCore,Java,JavaScript
+- 🔭 I’m currently developing myself on Software Development
+- 💻 I love writing code and learn anythings about it
 
 
 <h3>Language and Tools I Use:</h3>
@@ -21,5 +21,16 @@
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+
+
+  
+  ## GitHub Analytics 📊
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samedkazan&show_icons=true&theme=dark)
+  <br/>
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samedkazan&layout=compact)
+  
+  
+  ![snake svg](https://github.com/binnazcabuk/binnazcabuk/blob/output/github-contribution-grid-snake.svg)
 
 
