@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I Am MUSA UYUMAZ</h1>
-<h3 align="center">An Electrical and Electronical Engineer && Software Developer</h3>
+<h3 align="center">⚡ An Electrical and Electronical Engineer && 💻 Software Developer</h3>
 <h3 align="center">From Turkey</h3></br>
 
 
@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/github/stars/musauyumaz?label=Stars" alt="musauyumaz">
 </p>
 
-- 🌱 I’m currently learning .NetCore,Java,JavaScript
+- 🌱 I’m currently learning .NetCore,Java,Node.Js,Sql,Flutter
 - 🔭 I’m currently developing myself on Software Development
 - 💻 I love writing code and learn anythings about it
 
