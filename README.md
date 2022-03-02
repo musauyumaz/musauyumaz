@@ -25,10 +25,10 @@
 
   
   ## GitHub Analytics 📊
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samedkazan&show_icons=true&theme=dark)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=musauyumaz&show_icons=true&theme=dark)
   <br/>
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samedkazan&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=musauyumaz&layout=compact)
   
   
   ![snake svg](https://github.com/binnazcabuk/binnazcabuk/blob/output/github-contribution-grid-snake.svg)
