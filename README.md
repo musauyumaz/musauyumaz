@@ -20,6 +20,7 @@
 - 🌱 I’m currently learning .NetCore,Java,Node.Js,Sql,Flutter
 - 🔭 I’m currently developing myself on Software Development
 - 💻 I love writing code and learn anythings about it
+- 💬 Ask Me About .NET,JAVA,SQL and about any subject
 
 </br>
 
