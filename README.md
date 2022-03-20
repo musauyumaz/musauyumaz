@@ -50,11 +50,7 @@
 
 </br>
   
-  ## GitHub Analytics 📊
-
-<a href="https://git.io/streak-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=musauyumaz&theme=radical&date_format=j%20M%5B%20Y%5D" />
-</a>
+  <h3> GitHub Analytics 📊 </h3>
 </div>
 <p>&nbsp;
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=musauyumaz&show_icons=true&theme=merko" alt="musauyumaz" width="45%" />
