@@ -53,8 +53,8 @@
   <h3> GitHub Analytics 📊 </h3>
 </div>
 <p>&nbsp;
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=musauyumaz&show_icons=true&theme=merko" alt="musauyumaz" width="55%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musauyumaz&layout=compact&langs_count=16&theme=merko" width ="45%"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=musauyumaz&show_icons=true&theme=merko" alt="musauyumaz" width="47%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musauyumaz&layout=compact&langs_count=16&theme=merko" width ="47%"/>
   </p>
   </br>
   </br>
