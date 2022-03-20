@@ -55,15 +55,12 @@
 <a href="https://git.io/streak-stats">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=musauyumaz&theme=radical&date_format=j%20M%5B%20Y%5D" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=musauyumaz&show_icons=true&theme=radical" />
-</a>
-
 </div>
 <p>&nbsp;
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=musauyumaz&show_icons=true&theme=merko" alt="musauyumaz" width="45%" />
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musauyumaz&layout=compact&langs_count=16&theme=merko" width ="45%"/>
   </p>
+  </br>
   </br>
   <div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=musauyumaz&theme=xcode" /></div>
 <div  align="center"> <img src="https://github.com/mervekrblt/mervekrblt/blob/output/github-contribution-grid-snake.svg" /></div>
