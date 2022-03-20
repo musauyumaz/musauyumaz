@@ -57,6 +57,8 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musauyumaz&layout=compact&langs_count=16&theme=merko" width ="45%"/>
   </p>
   </br>
+  <div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=musauyumaz&theme=xcode" /></div>
+<div  align="center"> <img src="https://github.com/mervekrblt/mervekrblt/blob/output/github-contribution-grid-snake.svg" /></div>
 
 
 
