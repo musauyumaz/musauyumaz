@@ -59,7 +59,6 @@
   </br>
   </br>
   <div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=musauyumaz&theme=xcode" /></div>
-  ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
 
 
 
