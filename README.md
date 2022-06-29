@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I Am MUSA UYUMAZ</h1>
-<h3 align="center">⚡ An Electrical and Electronical Engineer && 💻 Software Developer</h3>
+<h3 align="center">💻 Software Developer && ⚡ An Electrical and Electronical Engineer </h3>
 <h3 align="center">From Turkey</h3>
 <p align="center">
 <img align="center" src="https://thumbs.gfycat.com/AdmirableBrownAmmonite-size_restricted.gif" />
