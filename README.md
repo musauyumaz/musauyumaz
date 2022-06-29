@@ -2,7 +2,7 @@
 <h3 align="center">⚡ An Electrical and Electronical Engineer && 💻 Software Developer</h3>
 <h3 align="center">From Turkey</h3>
 <p align="center">
-<img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEoC-zvgQ_S1rx-xkoHg8DZIt2xjF0iVmGFA&usqp=CAU" />
+<img align="center" src="https://thumbs.gfycat.com/AdmirableBrownAmmonite-size_restricted.gif" />
 </p>
 </br>
 
