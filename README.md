@@ -85,8 +85,5 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=musauyumaz&theme=tokyonight&hide_border=true" style="width:400px">
 </div>
 ---
-[![](https://visitcount.itsvg.in/api?id=musauyumaz&icon=0&color=3)](https://visitcount.itsvg.in)
-
-
 
 ![snake gif](https://github.com/musauyumaz/musauyumaz/blob/output/github-contribution-grid-snake-dark.svg)
