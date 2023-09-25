@@ -28,9 +28,9 @@
 # Work
 - 🔭 I’m currently working on [Blog](https://github.com/musauyumaz/Blog) and [BlogClient](https://github.com/musauyumaz/BlogClient)
 
-- 🌱 I’m currently learning **.NET CORE, SQL**
+- 🌱 I’m currently learning **.NET CORE**
 
-- 💬 Ask me about **.NET, JAVA, SQL and about any subject**
+- 💬 Ask me about **C#, JAVA, SQL, PYTHON and about any subject**
 
 - 📫 How to reach me **musa.uyumaz73@gmail.com**
 
