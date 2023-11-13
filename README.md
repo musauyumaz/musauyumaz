@@ -20,10 +20,11 @@
 - ### [SQL-TSQL](https://github.com/musauyumaz/SQL/blob/main/SQL%20Server%20ve%20T-SQL%20E%C4%9Fitimleri/ReadMe.md)
 - ### [Entity Framework Core](https://github.com/musauyumaz/EntityFrameworkCore/blob/main/README.md)
 - ### [Design Principles](https://github.com/musauyumaz/DesignPrinciples/blob/main/README.md)
-- ### [SignalR](https://github.com/musauyumaz/SignalR/blob/main/SignalR%20%C4%B0le%20Run%20Time%20Uygulama/ReadMe.md)
-- ### [gRPC](https://github.com/musauyumaz/gRPC/blob/main/gRPC%20K%C3%BCt%C3%BCphanesi/ReadMe.md)
+- ### [SignalR İle Run Time Uygulama Geliştirme](https://github.com/musauyumaz/SignalR/blob/main/SignalR%20%C4%B0le%20Run%20Time%20Uygulama/ReadMe.md)
+- ### [gRPC Kütüphanesi](https://github.com/musauyumaz/gRPC/blob/main/gRPC%20K%C3%BCt%C3%BCphanesi/ReadMe.md)
 - ### [Linux](https://github.com/musauyumaz/BashScripting/blob/main/README.md)
-- ### [Redis](https://github.com/musauyumaz/Redis/blob/main/README.md)
+- ### [A'dan Z'ye Redis](https://github.com/musauyumaz/Redis/blob/main/README.md)
+- ### [A'dan Z'ye C# İle İleri Düzey Programlama](https://github.com/musauyumaz/IleriDuzeyProgramlama/blob/main/README.md)
 ***
 
 # Work
