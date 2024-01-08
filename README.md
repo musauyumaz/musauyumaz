@@ -25,6 +25,7 @@
 - ### [Linux](https://github.com/musauyumaz/BashScripting/blob/main/README.md)
 - ### [A'dan Z'ye Redis](https://github.com/musauyumaz/Redis/blob/main/README.md)
 - ### [A'dan Z'ye C# İle İleri Düzey Programlama](https://github.com/musauyumaz/IleriDuzeyProgramlama/blob/main/README.md)
+- ### [Asenkron ve Multithread Programlama Eğitimi](https://github.com/musauyumaz/AsenkronveMultithreadProgramlama/blob/main/README.md)
 ***
 
 # Work
