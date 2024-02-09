@@ -11,7 +11,7 @@
 </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=musauyumaz" alt="musauyumaz" /></a> </p>
-ttt
+
 ***
 # My Notes
 - ### [Özel Ders Formatında A'dan Z'ye C# 10 Programlama Eğitimi](https://github.com/musauyumaz/CSharp_10_Programlama_Egitimi/blob/main/README.md)
