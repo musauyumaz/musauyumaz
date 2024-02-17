@@ -27,7 +27,7 @@
 - ### [Asenkron ve Multithread Programlama Eğitimi](https://github.com/musauyumaz/AsenkronveMultithreadProgramlama/blob/main/README.md)
 - ### [A'dan Z'ye RabbitMQ Eğitimi](https://github.com/musauyumaz/RabbitMQ/blob/main/README.md)
 ***
-tt
+
 # Work
 - 🔭 I’m currently working on [Blog](https://github.com/musauyumaz/Blog) and [BlogClient](https://github.com/musauyumaz/BlogClient)
 
