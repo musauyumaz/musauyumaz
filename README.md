@@ -36,8 +36,8 @@
 - 💬 Ask me about **C#, JAVA, SQL, PYTHON and about any subject**
 
 - 📫 How to reach me **musa.uyumaz73@gmail.com**
-
 ***
+
 # Published Projects
 - <a href ="https://minieticaret26.azurewebsites.net/">Mini-ETicaret</a>
 ***
