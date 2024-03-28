@@ -14,7 +14,7 @@
 ***
 # My Notes
 - ### [Özel Ders Formatında A'dan Z'ye C# 10 Programlama Eğitimi](https://github.com/musauyumaz/CSharp_10_Programlama_Egitimi/blob/main/README.md)
-- ### [Nesne-Tabanli-Programlama-OOP](https://github.com/musauyumaz/Nesne-Tabanli-Programlama-OOP/blob/main/Readme.md)
+- ### [Özel Ders Formatında A’dan Z’ye Nesne Tabanlı Programlama Eğitimi - 1. Etap](https://github.com/musauyumaz/Nesne-Tabanli-Programlama-OOP/blob/main/Readme.md)
 - ### [Özel Ders Formatında A’dan Z’ye Asp.NET Core 5.0 Web Programlama Eğitimi](https://github.com/musauyumaz/Asp.NET-Core-5.0-Web/blob/main/README.md)
 - ### [SQL-TSQL](https://github.com/musauyumaz/SQL/blob/main/SQL%20Server%20ve%20T-SQL%20E%C4%9Fitimleri/ReadMe.md)
 - ### [Entity Framework Core](https://github.com/musauyumaz/EntityFrameworkCore/blob/main/README.md)
@@ -26,6 +26,7 @@
 - ### [A'dan Z'ye C# İle İleri Düzey Programlama](https://github.com/musauyumaz/IleriDuzeyProgramlama/blob/main/README.md)
 - ### [Asenkron ve Multithread Programlama Eğitimi](https://github.com/musauyumaz/AsenkronveMultithreadProgramlama/blob/main/README.md)
 - ### [A'dan Z'ye RabbitMQ Eğitimi](https://github.com/musauyumaz/RabbitMQ/blob/main/README.md)
+- ### [Özel Ders Formatında A’dan Z’ye Nesne Tabanlı Programlama Eğitimi - 2. Etap](https://github.com/musauyumaz/NesneTabanliProgramlama2/blob/main/README.md)
 ***
 
 # Work
