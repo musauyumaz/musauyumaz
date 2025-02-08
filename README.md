@@ -22,11 +22,6 @@
 - ### [SignalR İle Run Time Uygulama Geliştirme](https://github.com/musauyumaz/SignalR/blob/main/SignalR%20%C4%B0le%20Run%20Time%20Uygulama/ReadMe.md)
 - ### [gRPC Kütüphanesi](https://github.com/musauyumaz/gRPC/blob/main/gRPC%20K%C3%BCt%C3%BCphanesi/ReadMe.md)
 - ### [Linux](https://github.com/musauyumaz/BashScripting/blob/main/README.md)
-- ### [A'dan Z'ye Redis](https://github.com/musauyumaz/Redis/blob/main/README.md)
-- ### [A'dan Z'ye C# İle İleri Düzey Programlama](https://github.com/musauyumaz/IleriDuzeyProgramlama/blob/main/README.md)
-- ### [Asenkron ve Multithread Programlama](https://github.com/musauyumaz/AsenkronveMultithreadProgramlama/blob/main/README.md)
-- ### [A'dan Z'ye RabbitMQ](https://github.com/musauyumaz/RabbitMQ/blob/main/README.md)
-- ### [Özel Ders Formatında A’dan Z’ye Nesne Tabanlı Programlama - 2. Etap](https://github.com/musauyumaz/NesneTabanliProgramlama2/blob/main/README.md)
 ***
 
 # Work
