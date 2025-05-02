@@ -11,27 +11,12 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=musauyumaz" alt="musauyumaz" /></a> </p>
 
-***
-# My Notes
-- ### [Özel Ders Formatında A'dan Z'ye C# 10 Programlama](https://github.com/musauyumaz/CSharp_10_Programlama_Egitimi/blob/main/README.md)
-- ### [Özel Ders Formatında A’dan Z’ye Nesne Tabanlı Programlama - 1. Etap](https://github.com/musauyumaz/Nesne-Tabanli-Programlama-OOP/blob/main/Readme.md)
-- ### [Özel Ders Formatında A’dan Z’ye Asp.NET Core 5.0 Web Programlama](https://github.com/musauyumaz/Asp.NET-Core-5.0-Web/blob/main/README.md)
-- ### [SQL-TSQL](https://github.com/musauyumaz/SQL/blob/main/SQL%20Server%20ve%20T-SQL%20E%C4%9Fitimleri/ReadMe.md)
-- ### [A'dan Z'ye Entity Framework Core](https://github.com/musauyumaz/EntityFrameworkCore/blob/main/README.md)
-- ### [Design Principles](https://github.com/musauyumaz/DesignPrinciples/blob/main/README.md)
-- ### [SignalR İle Run Time Uygulama Geliştirme](https://github.com/musauyumaz/SignalR/blob/main/SignalR%20%C4%B0le%20Run%20Time%20Uygulama/ReadMe.md)
-- ### [gRPC Kütüphanesi](https://github.com/musauyumaz/gRPC/blob/main/gRPC%20K%C3%BCt%C3%BCphanesi/ReadMe.md)
-- ### [Linux](https://github.com/musauyumaz/BashScripting/blob/main/README.md)
-***
-
-# Work
-- 🔭 I’m currently working on [Blog](https://github.com/musauyumaz/Blog) and [BlogClient](https://github.com/musauyumaz/BlogClient)
-
-- 🌱 I’m currently learning **.NET CORE**
-
-- 💬 Ask me about **C#, JAVA, SQL, PYTHON and about any subject**
-
-- 📫 How to reach me **musa.uyumaz73@gmail.com**
+# My Organizations
+- [ANDROID](https://github.com/MU-Android)
+- [IOS](https://github.com/MU-Ios)
+- [.NET](https://github.com/MU-DotNET)
+- [DATA SCIENCE](https://github.com/MU-DataScience)
+- [OLD PROJECTS](https://github.com/MU-OldProjects)
 ***
 
 # Published Projects
